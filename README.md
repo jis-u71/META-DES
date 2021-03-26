@@ -1,2 +1,2 @@
-# META-DES : A Dynamic ensemble selection framework using meta-learning
+# META-DES : A dynamic ensemble selection framework using meta-learning
 
